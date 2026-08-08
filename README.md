@@ -16,6 +16,7 @@ My current focus is on **Java, Data Structures & Algorithms, Python, SQL, and Ba
 ### 🌱 Currently Learning
 
 * Advanced Java
+* OOPs
 * Data Structures & Algorithms
 * Backend Development
 * System Design Fundamentals
